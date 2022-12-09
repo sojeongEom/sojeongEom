@@ -6,7 +6,8 @@
   <br />	
   <h3>. . .</h3>
   <h3>My Information</h3>
-  <a href="#"><img src="https://img.shields.io/badge/esj5029@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>   <a href="#"><img src="https://img.shields.io/badge/dbsdktkfkd9@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>  <a href="https://www.instagram.com/_dim.chae_/">
+  <a href="#"><img src="https://img.shields.io/badge/esj5029@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>   
+  <a href="#"><img src="https://img.shields.io/badge/dbsdktkfkd9@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
   <br />
   <br />
   <h3>. . .</h3>
@@ -32,7 +33,7 @@
  <br />
  <h3>. . .</h3>
  <h3>Today views</h3>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsojeongEom&count_bg=%23FFDCDC&title_bg=%23FAB4B4&icon=baidu.svg&icon_color=%23FFFFFF&title=%C2%B7&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsojeongEom&count_bg=%23FFDCDC&title_bg=%23ffd2d2&icon=baidu.svg&icon_color=%23FFFFFF&title=%C2%B7&edge_flat=false"/>
 	
 <br />
 <br />
