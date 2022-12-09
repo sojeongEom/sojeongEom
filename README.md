@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EEFF00,100:a82da8&height=300&section=header&text=sojeongEom&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(._____.)&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd2d2,100:99ccff&height=300&section=header&text=sojeongEom&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(._____.)&descAlignY=65&animation=twinkling)
 
 <div align="center">
   <h4>안녕하세요! 👋</h4>
@@ -40,4 +40,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojeongEom&layout=Demo&theme=swift)	
 </div>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:EEFF00,100:a82da8&height=130)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffd2d2,100:99ccff&height=130)
