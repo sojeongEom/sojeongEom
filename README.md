@@ -40,7 +40,7 @@
 
 <h3>. . .</h3>
   
-![sojeongEom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeongEom&show_icons=true&theme=rose_pine)
+![sojeongEom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeongEom&show_icons=true&title_color=99ccff&border_color=ffd2d2&icon_color=ffd2d2&text_color=99ccff&border_radius=5)
   
 <h3>. . .</h3>
 
