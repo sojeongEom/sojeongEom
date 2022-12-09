@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd2d2,100:99ccff&height=300&section=header&text=sojeongEom&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(*.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*)&descAlignY=65&animation=twinkling)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd2d2,100:99ccff&height=300&section=header&text=sojeongEom&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(*.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*)&descAlignY=65&animation=twinkling)
 
 <div align="center">
   <h4>안녕하세요! 👋</h4>
@@ -17,10 +17,16 @@
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white"/></a>
+	  <a href="#"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat&logo=node-dot-js&logoColor=white"/></a>
+	  <a href="#"><img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=node-dot-js&logoColor=white"/></a>
   <br />
   <a href="#"><img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+	  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=MySQL&logoColor=white"/></a>
+	  <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=MySQL&logoColor=white"/></a>
+	  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=MySQL&logoColor=white"/></a>
+	  <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=node-dot-js&logoColor=white"/></a>
 	</div>
  <br />
  <br />
@@ -41,3 +47,4 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffd2d2,100:99ccff&height=130)
+](url)
