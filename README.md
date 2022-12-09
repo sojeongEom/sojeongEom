@@ -28,18 +28,18 @@
  <br />
  <h3>. . .</h3>
  <h3>Today views</h3>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinchaeyeon&count_bg=%23FFDCDC&title_bg=%23FAB4B4&icon=baidu.svg&icon_color=%23FFFFFF&title=%C2%B7&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsojeongEom&count_bg=%23FFDCDC&title_bg=%23FAB4B4&icon=baidu.svg&icon_color=%23FFFFFF&title=%C2%B7&edge_flat=false"/>
 	
 <br />
 <br />
 
 <h3>. . .</h3>
   
-![jinchaeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinchaeyeon&show_icons=true&theme=swift)
+![sojeongEom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeongEom&show_icons=true&theme=swift)
   
 <h3>. . .</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinchaeyeon&layout=Demo&theme=swift)	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojeongEom&layout=Demo&theme=swift)	
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=FF8282&height=130)
