@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd2d2,100:99ccff&height=300&section=header&text=sojeongEom&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(*.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*)&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd2d2,100:99ccff&height=300&section=header&text=sojeongEom&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(*.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*)&descAlignY=60&animation=twinkling)
 
 <div align="center">
   <h4>안녕하세요! 👋</h4>
@@ -40,11 +40,11 @@
 
 <h3>. . .</h3>
   
-![sojeongEom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeongEom&show_icons=true&theme=buefy&border_radius=5)
+![sojeongEom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeongEom&show_icons=true&theme=swift)
   
 <h3>. . .</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojeongEom&layout=Demo&theme=buefy)	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojeongEom&layout=Demo&theme=swift)	
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffd2d2,100:99ccff&height=130)
