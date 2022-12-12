@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd2d2,100:99ccff&height=300&section=header&text=sojeongEom&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(*.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*)&descAlignY=60&animation=twinkling)
 
 <div align="center">
-  <h4>안녕하세요! 👋</h4>
   <h4>프론트엔드 개발자 엄소정입니다 :) </h4>
   <br />	
   <h3>. . .</h3>
@@ -31,12 +30,6 @@
 	</div>
  <br />
  <br />
- <h3>. . .</h3>
- <h3>Today views</h3>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsojeongEom&count_bg=%2399ccff&title_bg=%2399ccff&icon=baidu.svg&icon_color=%23FFFFFF&title=%C2%B7&edge_flat=false"/>
-	
-<br />
-<br />
 
 <h3>. . .</h3>
   
