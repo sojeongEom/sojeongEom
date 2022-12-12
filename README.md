@@ -48,4 +48,3 @@
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffd2d2,100:99ccff&height=130)
-](url)
