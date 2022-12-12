@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd2d2,100:99ccff&height=300&section=header&text=sojeongEom&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(*.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*)&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd2d2,100:99ccff&height=300&section=header&text=sojeongEom&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(*.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*)&descAlignY=65&animation=twinkling)
 
 <div align="center">
   <h4>안녕하세요! 👋</h4>
