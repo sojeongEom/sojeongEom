@@ -1,15 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd2d2,100:99ccff&height=300&section=header&text=sojeongEom&fontAlignY=40&fontColor=ffffff&fontSize=70&desc=(*.☆⸜(⑉˙ᗜ˙⑉)⸝♡.*)&descAlignY=60&animation=twinkling)
 
 <div align="center">
-  <h4>프론트엔드 개발자 엄소정입니다 :) </h4>
-  <br />	
+  <h4>프론트엔드 개발자 엄소정입니다 :) </h4>	
   <h3>. . .</h3>
   <h3>My Information</h3>
   <a href="#"><img src="https://img.shields.io/badge/esj5029@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>   
   <a href="#"><img src="https://img.shields.io/badge/dbsdktkfkd9@naver.com-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
   <br />
-  <br />
-  <h3>. . .</h3>
   <h3>Tech Stack</h3>
   <div class="stack">
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
@@ -29,13 +26,8 @@
 	  <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=node-dot-js&logoColor=white"/></a>
 	</div>
  <br />
- <br />
-
-<h3>. . .</h3>
   
 ![sojeongEom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeongEom&show_icons=true&theme=flag-india)
-  
-<h3>. . .</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojeongEom&layout=Demo&theme=flag-india)	
 </div>
