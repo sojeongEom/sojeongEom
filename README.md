@@ -40,11 +40,11 @@
 
 <h3>. . .</h3>
   
-![sojeongEom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeongEom&show_icons=true&theme=swift)
+![sojeongEom's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojeongEom&show_icons=true&theme=flag-india)
   
 <h3>. . .</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojeongEom&layout=Demo&theme=swift)	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sojeongEom&layout=Demo&theme=flag-india)	
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:ffd2d2,100:99ccff&height=130)
